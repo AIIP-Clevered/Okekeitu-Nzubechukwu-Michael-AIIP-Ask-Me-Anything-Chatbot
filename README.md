@@ -1,4 +1,4 @@
-# Okekeitu-Nzubechukwu-Michael-AIIP-Ask-Me-Anything-Chatbot
+# Ask-Me-Anything-Chatbot
  
                   
 # Project objective 
